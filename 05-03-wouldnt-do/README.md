@@ -1,0 +1,3 @@
+Oblique Strategy for the day: What wouldn't you do?
+
+Wasn't really sure where to start, so I went to Processing's reference and found a function that I usually wouldn't use.  I usually don't like working with words, so I decided to work with words...
