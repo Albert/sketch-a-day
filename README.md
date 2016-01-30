@@ -1,12 +1,6 @@
 A sketch a day
 ==============
 
-Uh, I just wanted to start doing a sketch every day.
+Sometimes I do spurts of sketches, once a day, to keep my creative mind and fingers sharp.  Started with a commitment to 30 days, and I have been adding a few more now and again.
 
-A "sketch" is some bit of code that just does something interesting.
-
-"Every Day" is, uhm, hopefully every day...
-
-
-Each sketch comes with a readme.  Sometimes I refer to "oblique strategies" as a seed of inspiration.  I use this tool to get those:
-http://stoney.sb.org/eno/oblique.html
+Processing sketches from 2016 are Processing v3.

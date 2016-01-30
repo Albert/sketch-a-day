@@ -1,3 +1,0 @@
-Sorta inspired by Crypt of the Neurodancer -- a game I haven't played but have seen lots of footage for.
-
-Basically, wanted a checkeboard that bounced back and forth between both states (that is commented out).  Figured I could add some mouse control to make it slightly more interesting -- now wherever you move your mouse, it will always land on a white px.  That's all...
